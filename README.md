@@ -2,7 +2,7 @@
 
 <h2 align="left" style="font-weight:800;">~About me :)</h2>
 
-- 🌱 I’m currently learning DSA and Android Development using Kotlin.
+- 🌱 I’m currently learning DSA and **Android Development using Kotlin**.
 
 - 👯 I’m looking to collaborate on UI/UX and projects on Android development.
 
