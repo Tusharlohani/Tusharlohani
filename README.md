@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Basic DSA, C++, Java (along with Collections), HTML,CSS,SQL,Kotlin,JS(basics),Python.
 
-- 📫 Reach me at->*tusharlohani2@gmail.com or https://www.linkedin.com/in/tushar-lohani-0128**
+- 📫 Reach me at->**tusharlohani2@gmail.com** or **https://www.linkedin.com/in/tushar-lohani-0128**
 
 - ⚡ Fun fact-*Overthinking sucks just  be calm and do your work**
 
