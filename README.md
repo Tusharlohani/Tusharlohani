@@ -1,4 +1,7 @@
+<p align = "center">
+<img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e477g4kkufqr7gw1ahrnecqleorscyqh7eg301hy70t&rid=200.webp&ct=g"/> 
 <h3 align="center" style="font-weight:600;">Hello!! 👋, I’m Tushar Lohani,<br> currently pursuing B.E. CSE from Chandigarh University.</h3>
+</p>
 
 <h2 align="left" style="font-weight:800;">~About me :)</h2>
 
