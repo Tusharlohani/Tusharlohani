@@ -16,6 +16,7 @@
 - 📫 Reach me at->*tusharlohani2@gmail.com or https://www.linkedin.com/in/tushar-lohani-0128**
 
 - ⚡ Fun fact-*Overthinking sucks just  be calm and do your work**
+- <img height="60" alt="Thanks for visiting here!!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
 <h2 align="left" style="font-weight: 800;">~Languages and Tools  </h2>
