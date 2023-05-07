@@ -1,5 +1,6 @@
 <p align = "center">
 <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e477g4kkufqr7gw1ahrnecqleorscyqh7eg301hy70t&rid=200.webp&ct=g"/> 
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3 align="center" style="font-weight:600;">Hello!! 👋, I’m Tushar Lohani,<br> currently pursuing B.E. CSE from Chandigarh University.</h3>
 </p>
 
