@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/bcKmIWkUMCjVm/200.webp?cid=ecf05e477g4kkufqr7gw1ahrnecqleorscyqh7eg301hy70t&rid=200.webp&ct=g"/> 
 <h3 align="center" style="font-weight:600;">Hello!! 👋, I’m <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tushar-lohani-0128" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tushar-lohani-0128?trk=profile-badge">Tushar Lohani</a>
-</div>currently pursuing B.E. CSE from Chandigarh University.</h3>
+</div>Associate Software Engineer @CLARIVATE</h3>
 </p>
 
               
