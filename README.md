@@ -8,16 +8,14 @@
               
 <h2 align="left" style="font-weight:800;">~About me :)</h2>
 
-- 🌱 I’m currently learning DSA and **Working on my development skills**.
-
-- 👯 I’m looking to collaborate on UI/UX and projects on Android development.
-
+- Motivated and dedicated Software Engineer with over a year of experience in development and automation testing.
+- Familiar with backend programming using Spring Boot and frontend development with React, HTML, CSS, and JavaScript.
+- Worked collaboratively with stakeholders to develop effective software solutions while adhering to industry best practices.
+- Proficient in using Git for version control and employing automation tools to enhance productivity.
+- Experienced in applying design patterns and modern development techniques to deliver scalable and efficient applications.
 - ✨ I used to code in JAVA ✨
-
-- 💬 Ask me about **Basic DSA, C++, Java (along with Collections), HTML,CSS,SQL,Kotlin,JS(basics),Python.
-
+- 💬 Ask me about **Basic DSA, C++, Java (along with Collections), HTML,CSS,SQL,JS(basics),Python.
 - 📫 Reach me at->*tusharlohani2@gmail.com or https://www.linkedin.com/in/tushar-lohani-0128**
-
 - ⚡ Fun fact-*Overthinking sucks just  be calm and do your work**
 - <img height="60" alt="Thanks for visiting here!!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
